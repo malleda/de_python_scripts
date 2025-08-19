@@ -1,0 +1,74 @@
+[
+    {
+        "rel_url": "malleda/data-engineering-repo/main/allergies.csv",
+        "base_url": "https://raw.githubusercontent"
+    },
+    {
+        "rel_url": "malleda/data-engineering-repo/main/careplans.csv",
+        "base_url": "https://raw.githubusercontent"
+    },
+    {
+        "rel_url": "malleda/data-engineering-repo/main/claims.csv",
+        "base_url": "https://raw.githubusercontent"
+    },
+    {
+        "rel_url": "malleda/data-engineering-repo/main/claims_transactions.csv",
+        "base_url": "https://raw.githubusercontent"
+    },
+    {
+        "rel_url": "malleda/data-engineering-repo/main/conditions.csv",
+        "base_url": "https://raw.githubusercontent"
+    },
+    {
+        "rel_url": "malleda/data-engineering-repo/main/devices.csv",
+        "base_url": "https://raw.githubusercontent"
+    },
+    {
+        "rel_url": "malleda/data-engineering-repo/main/encounters.csv",
+        "base_url": "https://raw.githubusercontent"
+    },
+    {
+        "rel_url": "malleda/data-engineering-repo/main/imaging_studies.csv",
+        "base_url": "https://raw.githubusercontent"
+    },
+    {
+        "rel_url": "malleda/data-engineering-repo/main/immunizations.csv",
+        "base_url": "https://raw.githubusercontent"
+    },
+    {
+        "rel_url": "malleda/data-engineering-repo/main/medications.csv",
+        "base_url": "https://raw.githubusercontent"
+    },
+    {
+        "rel_url": "malleda/data-engineering-repo/main/observations.csv",
+        "base_url": "https://raw.githubusercontent"
+    },
+    {
+        "rel_url": "malleda/data-engineering-repo/main/organizations.csv",
+        "base_url": "https://raw.githubusercontent"
+    },
+    {
+        "rel_url": "malleda/data-engineering-repo/main/patients.csv",
+        "base_url": "https://raw.githubusercontent"
+    },
+    {
+        "rel_url": "malleda/data-engineering-repo/main/payer_transitions.csv",
+        "base_url": "https://raw.githubusercontent"
+    },
+    {
+        "rel_url": "malleda/data-engineering-repo/main/payers.csv",
+        "base_url": "https://raw.githubusercontent"
+    },
+    {
+        "rel_url": "malleda/data-engineering-repo/main/procedures.csv",
+        "base_url": "https://raw.githubusercontent"
+    },
+    {
+        "rel_url": "malleda/data-engineering-repo/main/providers.csv",
+        "base_url": "https://raw.githubusercontent"
+    },
+    {
+        "rel_url": "malleda/data-engineering-repo/main/supplies.csv",
+        "base_url": "https://raw.githubusercontent"
+    }
+]
